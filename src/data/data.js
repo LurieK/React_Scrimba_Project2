@@ -65,7 +65,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "May 2022",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {bali}
+      image: bali
     },
     {
       key: 7,
@@ -74,7 +74,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "July 2022",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {singapore}
+      image: singapore
     },
     {
       key: 8,
@@ -83,7 +83,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "July 2022",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {kl}
+      image: kl
     },
     {
       key: 9,
@@ -92,7 +92,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "September 2023",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {perth}
+      image: perth
     },
     {
       key: 10,
@@ -101,7 +101,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "November 2022-December 2022",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {bangkok}
+      image: bangkok
     },
     {
       key: 11,
@@ -110,7 +110,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "February 2023",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {taipei}
+      image: taipei
     },
     {
       key: 12,
@@ -119,7 +119,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "April 2023",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {ho_chi_minh}
+      image: ho_chi_minh
     },
     {
       key: 13,
@@ -128,7 +128,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "June 2023",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {cebu}
+      image: cebu
     },
     {
       key: 14,
