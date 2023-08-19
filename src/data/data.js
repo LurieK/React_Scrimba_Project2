@@ -20,7 +20,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "November 2020-February 2021",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {surfers_bay}
+      image: surfers_bay
     },
     {
       key: 2,
@@ -29,7 +29,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "February 2021-March 2021",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {aguadilla}
+      image: aguadilla
     },
     {
       key: 3,
@@ -38,7 +38,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "April 2021-August 2021",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {cabo}
+      image: cabo
     },
     {
       key: 4,
@@ -47,7 +47,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "September 2021-October 2021",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {benevento} 
+      image: benevento
     },
     {
       key: 5,
@@ -56,7 +56,7 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "October 2021-December 2021",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: {fuerteventura}
+      image: fuerteventura
     },
     {
       key: 6,

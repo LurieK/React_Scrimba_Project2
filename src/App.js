@@ -5,14 +5,15 @@ import data from "./data/data"
 
 export default function App() {
 
-  let cardElement = data.map((place)=>{
-    <Card 
+  const cardElement = data.map((place)=>{
+    return <Card 
         key={data.key}
         item={place}
     />
   })
+
   return (
-    <div className="App">
+    <div>
       <Header/>
       {cardElement}
     </div>
