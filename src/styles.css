@@ -33,6 +33,7 @@ body{
   display:flex;
   justify-content: center;
   flex-flow: column;
+  margin: 40px;
 }
 
 .card{
@@ -40,15 +41,15 @@ body{
   justify-content: center;
   flex-flow: row;
   margin-bottom: 36px;
-  margin: 40px;
-  width: 470px;
+  
+  
 }
 
 .content {
   display: flex;
   justify-content: flex-start;
   flex-flow: column;
-  margin-left: 10px;
+  margin-left: 20px;
 
 }
 
@@ -97,9 +98,15 @@ p {
 
 .local-img{
   width: 125px;
-  border-radius: 5px;
-  height: 168px;
+  height: 169px;
   object-fit: cover;
+  border-radius: 5px;
+}
+
+.local-img-container {
+  width: 125px;
+  height: 169px;
+  border-radius: 5px;
 }
 
 

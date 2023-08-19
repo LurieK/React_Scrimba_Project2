@@ -11,6 +11,7 @@ import perth from "./data-img/perth.png";
 import singapore from "./data-img/singapore.png";
 import surfers_bay from "./data-img/surfers-bay.png";
 import taipei from "./data-img/Taipei.png";
+import tokyo from "./data-img/tokyo.png"
 
 const data = [
     {
@@ -130,15 +131,15 @@ const data = [
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       image: cebu
     },
-    // {
-    //   key: 14,
-    //   Country: "Japan",
-    //   Location: "Tokyo",
-    //   GoogleMapLink: "https://dummy.link",
-    //   Dates: "September 2023",
-    //   about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    //   // Add the corresponding image if available
-    // }
+    {
+      key: 14,
+      Country: "Japan",
+      Location: "Tokyo",
+      GoogleMapLink: "https://dummy.link",
+      Dates: "September 2023",
+      about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      image: tokyo
+    }
   ];
 
   export default data
