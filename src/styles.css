@@ -40,6 +40,8 @@ body{
   justify-content: center;
   flex-flow: row;
   margin-bottom: 36px;
+  margin: 40px;
+  width: 470px;
 }
 
 .content {
@@ -96,6 +98,9 @@ p {
 .local-img{
   width: 125px;
   border-radius: 5px;
-
+  height: 168px;
+  object-fit: cover;
 }
+
+
 
