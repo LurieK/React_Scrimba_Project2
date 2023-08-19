@@ -1,4 +1,95 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+body{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
 }
+
+.header {
+  background: #F55A5A;
+  color: #FFF;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row;
+  height: 55px;
+  margin-bottom: 45px;
+
+}
+
+.globe-img{
+  width: 24px;
+  height: 24px;
+  margin-right: 7px;
+}
+
+.header-text{
+  font-size: 14.5px;
+  font-weight: 500;
+  letter-spacing: -1.085px;
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+  flex-flow: row;
+}
+
+.content {
+  display: flex;
+  justify-content: flex-start;
+  flex-flow: column;
+  margin-left: 10px;
+
+}
+
+.top{
+  display: flex;
+  flex-flow: row;
+ 
+}
+
+.location-name{
+  font-weight: 400;
+  color: #2B283A;
+  letter-spacing: 1.741px;
+  margin-right: 12px;
+  margin-bottom: 5px;
+
+}
+
+.location-name img {
+  margin-right: 4px;
+}
+
+.google-link {
+  color: #918E9B;
+  text-decoration-line: underline;
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  
+}
+
+p {
+  font-size: 10.24px;
+  color: #2B283A;
+}
+
+.dates{
+  font-weight: 700;
+  color: #2B283A;
+}
+
+.local-img{
+  width: 125px;
+  border-radius: 5px;
+
+}
+
