@@ -12,7 +12,7 @@ function Card(props){
             <div className="content">
                 <div className="top">
                     <p className="location-name"><img src={mapPin}/>{props.item.Country}</p> 
-                    <p><a href={props.item.GoogleMapLink} className="google-link">{props.item.GoogleMapLink}</a></p>
+                    <p><a target="_blank" href={props.item.GoogleMapLink} className="google-link">View on Google Maps</a></p>
                 </div>
                 <h1>{props.item.Location}</h1>
                 <p className="dates">{props.item.Dates}</p>
