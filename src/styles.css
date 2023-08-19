@@ -1,4 +1,122 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+body{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Andika', sans-serif;
 }
+
+.header {
+  background: #5aabf5;
+  color: #FFF;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row;
+  height: 55px;
+  margin-bottom: 45px;
+
+}
+
+.globe-img{
+  width: 24px;
+  height: 24px;
+  margin-right: 7px;
+}
+
+.header-text{
+  font-size: 14.5px;
+  font-weight: 700;
+  letter-spacing: -1.085px;
+}
+.card-element {
+  display:flex;
+  justify-content: center;
+  flex-flow: column;
+  margin: 40px;
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+  flex-flow: row;
+  margin-bottom: 36px;
+  
+  
+  
+}
+
+.content {
+  display: flex;
+  justify-content: flex-start;
+  flex-flow: column;
+  margin-left: 20px;
+  line-height: 10%;
+
+}
+
+.top{
+  display: flex;
+  flex-flow: row;
+ 
+}
+
+.location-name{
+  font-weight: 400;
+  color: #2B283A;
+  letter-spacing: 1.741px;
+  margin-right: 12px;
+  margin-bottom: 5px;
+
+}
+
+.location-name img {
+  margin-right: 4px;
+}
+
+.google-link {
+  color: #918E9B;
+  text-decoration-line: underline;
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  
+}
+
+p {
+  font-size: 10.24px;
+  color: #2B283A;
+  line-height: 150%;
+  margin-top:0;
+}
+
+.dates{
+  font-weight: 700;
+  color: #2B283A;
+}
+
+.stay-message p{
+  color: #918E9B;
+  font-weight: 700;
+}
+
+.local-img{
+  width: 125px;
+  height: 169px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.local-img-container {
+  width: 125px;
+  height: 169px;
+  border-radius: 5px;
+}
+
+
+
