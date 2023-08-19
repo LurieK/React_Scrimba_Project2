@@ -6,16 +6,16 @@ function Card(props){
     console.log(props)
     return (
         <section className="card">
-            <img src={dummImg} className="local-img" />
+            <img src={props.item.image} className="local-img" />
             
             <div className="content">
                 <div className="top">
-                    <p className="location-name"><img src={mapPin}/>{props.place.Country}</p> 
-                    <p className="google-link">{props.place.GoogleMapLink}</p>
+                    <p className="location-name"><img src={mapPin}/>{props.item.Country}</p> 
+                    <p className="google-link">{props.item.GoogleMapLink}</p>
                 </div>
-                <h1>{props.place.Location}</h1>
-                <p className="dates">{props.place.Dates}</p>
-                <p>{props.place.about}</p>
+                <h1>{props.item.Location}</h1>
+                <p className="dates">{props.item.Dates}</p>
+                <p>{props.item.about}</p>
             </div>
 
         </section>
