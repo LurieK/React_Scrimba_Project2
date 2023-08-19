@@ -16,7 +16,9 @@ export default function App() {
   return (
     <div>
       <Header/>
+      <div className="card-element">
       {cardElements}
+      </div>
     </div>
   );
 }

@@ -29,11 +29,17 @@ body{
   font-weight: 500;
   letter-spacing: -1.085px;
 }
+.card-element {
+  display:flex;
+  justify-content: center;
+  flex-flow: column;
+}
 
 .card{
   display: flex;
   justify-content: center;
   flex-flow: row;
+  margin-bottom: 36px;
 }
 
 .content {
