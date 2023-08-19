@@ -21,7 +21,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "November 2020-February 2021",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: surfers_bay
+      image: surfers_bay,
+      longStay: true
     },
     {
       key: 2,
@@ -30,7 +31,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "February 2021-March 2021",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: aguadilla
+      image: aguadilla,
+      longStay: true
     },
     {
       key: 3,
@@ -39,7 +41,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "April 2021-August 2021",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: cabo
+      image: cabo,
+      longStay: true
     },
     {
       key: 4,
@@ -48,7 +51,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "September 2021-October 2021",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: benevento
+      image: benevento,
+      longStay: true
     },
     {
       key: 5,
@@ -57,7 +61,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "October 2021-December 2021",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: fuerteventura
+      image: fuerteventura,
+      longStay: true
     },
     {
       key: 6,
@@ -66,7 +71,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "May 2022",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: bali
+      image: bali,
+      longStay: true
     },
     {
       key: 7,
@@ -75,7 +81,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "July 2022",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: singapore
+      image: singapore,
+      longStay: false
     },
     {
       key: 8,
@@ -84,7 +91,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "July 2022",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: kl
+      image: kl,
+      longStay: false
     },
     {
       key: 9,
@@ -93,7 +101,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "September 2023",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: perth
+      image: perth,
+      longStay: false
     },
     {
       key: 10,
@@ -102,7 +111,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "November 2022-December 2022",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: bangkok
+      image: bangkok,
+      longStay: false
     },
     {
       key: 11,
@@ -111,7 +121,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "February 2023",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: taipei
+      image: taipei,
+      longStay: false
     },
     {
       key: 12,
@@ -120,7 +131,8 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "April 2023",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: ho_chi_minh
+      image: ho_chi_minh,
+      longStay: false
     },
     {
       key: 13,
@@ -138,7 +150,9 @@ const data = [
       GoogleMapLink: "https://dummy.link",
       Dates: "September 2023",
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: tokyo
+      image: tokyo,
+      longStay: false
+
     }
   ];
 

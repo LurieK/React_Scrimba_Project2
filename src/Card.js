@@ -1,5 +1,5 @@
 import mapPin from "./img/location-pin.png";
-import dummImg from "./img/Mt-figi.png"
+
 
 
 function Card(props){
@@ -16,6 +16,9 @@ function Card(props){
                 </div>
                 <h1>{props.item.Location}</h1>
                 <p className="dates">{props.item.Dates}</p>
+                <div className="stay-message">
+                {props.item.longStay ? <p>Visited Over a Month!</p> : <p>Short Visit</p>}
+                </div>
                 <p>{props.item.about}</p>
             </div>
 

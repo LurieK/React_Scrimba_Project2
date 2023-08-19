@@ -43,6 +43,7 @@ body{
   margin-bottom: 36px;
   
   
+  
 }
 
 .content {
@@ -50,6 +51,7 @@ body{
   justify-content: flex-start;
   flex-flow: column;
   margin-left: 20px;
+  line-height: 50%;
 
 }
 
@@ -89,11 +91,16 @@ h1 {
 p {
   font-size: 10.24px;
   color: #2B283A;
+  line-height: 150%;
 }
 
 .dates{
   font-weight: 700;
   color: #2B283A;
+}
+
+.stay-message{
+  
 }
 
 .local-img{
