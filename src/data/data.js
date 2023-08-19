@@ -130,15 +130,15 @@ const data = [
       about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       image: cebu
     },
-    {
-      key: 14,
-      Country: "Japan",
-      Location: "Tokyo",
-      GoogleMapLink: "https://dummy.link",
-      Dates: "September 2023",
-      about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      // Add the corresponding image if available
-    }
+    // {
+    //   key: 14,
+    //   Country: "Japan",
+    //   Location: "Tokyo",
+    //   GoogleMapLink: "https://dummy.link",
+    //   Dates: "September 2023",
+    //   about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    //   // Add the corresponding image if available
+    // }
   ];
 
   export default data

@@ -5,9 +5,9 @@ import data from "./data/data"
 
 export default function App() {
 
-  const cardElement = data.map((place)=>{
+  const cardElements = data.map((place)=>{
     return <Card 
-        key={data.key}
+        key={place.key}
         item={place}
     />
   })
@@ -15,7 +15,7 @@ export default function App() {
   return (
     <div>
       <Header/>
-      {cardElement}
+      
     </div>
   );
 }

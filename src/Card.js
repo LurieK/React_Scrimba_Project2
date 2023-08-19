@@ -1,11 +1,12 @@
 import mapPin from "./img/location-pin.png";
+import dummImg from "./img/Mt-figi.png"
 
 
 function Card(props){
     console.log(props)
     return (
         <section className="card">
-            <img src={props.place.image}className="local-img" />
+            <img src={dummImg} className="local-img" />
             
             <div className="content">
                 <div className="top">
