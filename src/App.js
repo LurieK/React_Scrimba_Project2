@@ -4,14 +4,14 @@ import Header from "./Header"
 import data from "./data/data"
 
 export default function App() {
-  
-  const cardElements = data.map((place)=>{
-    return <Card 
-        key={place.key}
-        item={place}
+  let cardElements = data.map((place)=>
+    <Card 
+      key={place.key}
+      item={place}
     />
-  })
-  console.log(cardElements)
+  )
+  
+ 
 
   return (
     <div>

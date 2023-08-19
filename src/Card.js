@@ -3,7 +3,7 @@ import dummImg from "./img/Mt-figi.png"
 
 
 function Card(props){
-    console.log(props)
+    
     return (
         <section className="card">
             <img src={props.item.image} className="local-img" />
