@@ -3,7 +3,7 @@
 
 Lurie's Travel Journal is a React project that showcases various travel locations. It's built using modern React features and provides an interactive way to view different travel destinations.
 
-![Example Image](Image%208-19-23%20at%203.28%20PM.JPG.png)
+![Example Image](Preview_img_travel.JPG)
 
 ## Technology Used
 
