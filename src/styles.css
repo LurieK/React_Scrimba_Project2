@@ -41,8 +41,8 @@ body{
   justify-content: center;
   flex-flow: row;
   margin-bottom: 36px;
-  
-  
+  width: 450px;
+  align-self: center;
   
 }
 
