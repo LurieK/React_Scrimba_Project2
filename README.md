@@ -48,6 +48,11 @@ To start the development server, run:
 npm start
 ```
 
+## View on CodeSandbox
+
+Or you can view this project on CodeSandbox [here](https://codesandbox.io/p/github/LurieK/React_Scrimba_Project2).
+
+
 ## License
 
 This project is open-source and available under the MIT License.
